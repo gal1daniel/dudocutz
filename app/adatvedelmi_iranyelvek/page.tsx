@@ -6,7 +6,7 @@ const page = () => {
     <section className='max-container padding-container'>ű
         <div className='py-20'> 
             <div className='text-white'>
-                <h5 className='text-4xl'>Adatvédelmi irányelvek</h5>
+                <p className='text-4xl'>Adatvédelmi irányelvek</p>
                 <p className='text-sm font-light'>Legutóbb módosítva: 2024 április</p>
                 <p className='text-sm py-5'>Ez az adatvédelmi irányelv részletezi, hogy milyen adatokat gyűjtünk össze, hogyan használjuk ezeket az adatokat és hogyan védjük meg azokat, amikor Ön használja ezt a weboldalt.</p>
             </div>
